@@ -357,13 +357,9 @@ sys.modules['a2a.client.client'] = patched_module
 - `priority`: TEXT NOT NULL DEFAULT 'medium' (values: 'low', 'medium', 'high')
 - `created_at`: DATETIME
 
-## License
-
-[Add your license here]
-
 ## Author
 
-[Your name]
+Katy Koo
 
 ## Acknowledgments
 
